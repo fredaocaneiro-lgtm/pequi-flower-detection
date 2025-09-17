@@ -1,0 +1,40 @@
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configurações do Jupyter Notebook
+.ipynb_checkpoints
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Modelos treinados e pesos
+*.pt
+*.pth
+*.onnx
+*.h5
+*.ckpt
+
+# Dados locais (datasets brutos, exportações)
+data/
+datasets/
+*.zip
+*.tar.gz
+
+# Arquivos de saída
+runs/
+outputs/
+results/
