@@ -8,3 +8,20 @@ Este projeto tem como objetivo treinar e avaliar modelos de **Visão Computacion
 - Validar a acurácia e aplicar em cenários reais, como monitoramento ambiental e pesquisa científica.
 
 ## 📂 Estrutura do Repositório
+# Frameworks principais
+torch>=2.0.0
+torchvision>=0.15.0
+
+# YOLOv8 (Ultralytics)
+ultralytics>=8.0.0
+
+# Roboflow SDK (para importar datasets)
+roboflow
+
+# Utilitários
+opencv-python
+matplotlib
+numpy
+pandas
+tqdm
+
